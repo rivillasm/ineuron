@@ -6,3 +6,5 @@ python_005 - class and abstraction(private/public)
 python_006 - python assignments
 python_007 - pandas import/export, Data manipulation, Web APIs, loc,iloc, merge,join,concat
 python_008 - numpy, matrixes, slicing, broadcasting
+python_009 - data visualization matplotlib
+python_009a - data visualization iplot - interactive plotting
