@@ -7,4 +7,4 @@ python_006 - python assignments
 python_007 - pandas import/export, Data manipulation, Web APIs, loc,iloc, merge,join,concat
 python_008 - numpy, matrixes, slicing, broadcasting
 python_009 - data visualization matplotlib. plot,scatter_matrix,bar,etc
-python_009a - data visualization iplot - interactive plotting, seaborn libraries
+python_009a - data visualization iplot - interactive plotting, seaborn libraries, 3D
