@@ -9,3 +9,4 @@ python_008 - numpy, matrixes, slicing, broadcasting
 python_009 - data visualization matplotlib. plot,scatter_matrix,bar,etc
 python_009a - data visualization iplot - interactive plotting, seaborn libraries, 3D
 python_010 -
+python_011 -
