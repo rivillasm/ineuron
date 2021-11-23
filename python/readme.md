@@ -9,7 +9,8 @@ python_008 - numpy, matrixes, slicing, broadcasting
 python_009 - data visualization matplotlib. plot,scatter_matrix,bar,etc
 python_009a - data visualization iplot - interactive plotting, seaborn libraries, 3D
 python_010 - sql connection with python; Rest API and sql, Mongodb
-python_010a - mondoDB
+python_010a - mondoDB - local
+python_010b - mondoDB - atlas - cloud
 python_020_LR -  linear regression and logistic regression
 python_021_SVM - Support Vector Machine
 python_022_DecisionTrees - Decision Tree, Entropy, GINI, Information Gain
