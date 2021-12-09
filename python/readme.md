@@ -11,6 +11,7 @@ python_009a - data visualization iplot - interactive plotting, seaborn libraries
 python_010 - sql connection with python; Rest API and sql, Mongodb
 python_010a - mondoDB - local
 python_010b - mondoDB - atlas - cloud
+python_011_API
 python_020_LR -  linear regression and logistic regression
 python_021_SVM - Support Vector Machine
 python_022_DecisionTrees - Decision Tree, Entropy, GINI, Information Gain
