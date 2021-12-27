@@ -13,6 +13,9 @@ python_010a - mondoDB - local
 python_010b - mondoDB - atlas - cloud
 python_011_API - local machine/postman
 python_011a_API - html
+python_012_oops - classes and modes
+python_013_Scrapping - basic scrapping, beatufulsoup
+python_013a_Scrapping - scrapping, threading, data collection and saving into mongodb
 python_020_LR -  linear regression and logistic regression
 python_021_SVM - Support Vector Machine
 python_022_DecisionTrees - Decision Tree, Entropy, GINI, Information Gain
